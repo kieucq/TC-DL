@@ -1,4 +1,4 @@
-# Tropical Cyclogenesis Forecast using Deep Models
+# Tropical Cyclogenesis Forecast using Deep Learning Models
 
 ## Dependencies
 
@@ -31,4 +31,4 @@ In this module, I implement DNN models such as Resnet, Unet,
 dataset utilities to load preprocessed datasets,
 integrated gradients, etc.
 * `experiments/` folder contains the experiments relating to Resnet, Unet, integrated gradients and feature selection.
-* `other_experiments/` folder contains my other (crazy) ideas relating to the project.
+* `other_experiments/` folder contains other ideas relating to the project.
